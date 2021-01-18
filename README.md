@@ -7,9 +7,8 @@ Sou desenvolvedor web fullstack 🇧🇷, estudante de Sistemas de Informação 
 - 📚 Redes de Computadores - UEMA
 - 🛠 Techs: 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html5"  width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
