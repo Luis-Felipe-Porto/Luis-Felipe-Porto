@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luis Felipe 👋 :brazil:
 
-Sou estudante de Sistemas de Informação fascinado por programação, busco sempre novos novos desafios com meta no crescimento profissional, gosto de trabalhar em projetos de pesquisa tanto acadêmico 🎓 quanto empresariais 💼, inovação e proatividade são minhas armas de guerra 🚀!
+Sou estudante de Sistemas de Informação fascinado por programação, busco sempre novos desafios com meta no crescimento profissional, gosto de trabalhar em projetos de pesquisa tanto acadêmico 🎓 quanto empresariais 💼, inovação e proatividade são minhas armas de guerra 🚀!
 
 - 📫 Como me encontrar **luis.porto.luis@gmail.com**
 - 📚Sistemas de Informação - IFMA
