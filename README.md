@@ -15,16 +15,7 @@ Sou estudante de Sistemas de Informação fascinado por programação, busco sem
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="50" height="50"/>
 </p>
 
-
 <br/>
 <br/>
-<br/>
-
-<p align="center">
- 
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=Linkedin&label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluisporto-developer%2F">
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Cnpq&logo=c&logoColor=blue&style=social&url=http%3A%2F%2Flattes.cnpq.br%2F7662274218005529">
- 
-</p>
 
 > *Falar é fácil, me mostre o código.*(Linus Torvalds)
